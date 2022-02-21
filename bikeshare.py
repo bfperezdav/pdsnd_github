@@ -63,7 +63,7 @@ def get_filters():
     day = day_dict[day]
     print('You have chosen: {}'.format(day))
 
-    print('-'*40)
+    print('Filter done')
     return city, month, day
 
 def load_data(city, month, day):
