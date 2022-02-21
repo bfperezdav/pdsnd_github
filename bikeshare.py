@@ -6,6 +6,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+# CITY_KEY is a link between CITY_DATA and the programming code below
+
 CITY_KEY = {'chicago':'Chicago',
             'new york city':'New York City',
             'washington':'Washington'}
