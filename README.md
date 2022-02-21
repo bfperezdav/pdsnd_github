@@ -1,17 +1,21 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+## Project 3 Udacity - Programming for Data Science
+
+In this document you will find the bicycle system project and the lines of git code with which the documentation was assembled
 
 ### Date created
-Include the date you created this project and README file.
+February, 2022
 
 ### Project Title
-Replace the Project Title
+Public bicycle system
 
 ### Description
-Describe what your project is about and what it does
+Relevant data of the public bicycle system in different countries of the world
 
 ### Files used
-Include the files used
+- Documents provided by the course Programming for Data Science with Python Nanodegree of Udacity.
+- Files: chicago.csv, washington.csv and new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+- Udacity
+- Python documentation
 

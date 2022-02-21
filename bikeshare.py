@@ -2,6 +2,8 @@ import time
 import pandas as pd
 import numpy as np
 
+# Dictionary with cities from the database
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
